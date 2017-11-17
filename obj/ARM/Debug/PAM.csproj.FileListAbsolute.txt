@@ -1,0 +1,683 @@
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\App.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\App.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\App.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\Config.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\App.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\Config.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\App.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\Config.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\PAM.xr.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\PAM.exe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\PAM.pdb
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\resources.pri
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\AppxManifest.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\Core\PAM.exe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\PAM.build.appxrecipe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Core.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Numerics.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Windows.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Xml.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.AppContext.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Collections.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Globalization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.IO.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\ClrCompression.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Linq.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Threading.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\Config.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\Config.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\PAM.exe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\PAM.pdb
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\priconfig.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\layout.resfiles
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\resources.resfiles
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\pri.resfiles
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\qualifiers.txt
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\DebugPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\MainPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\DebugPage.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\DebugPage.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\MainPage.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\DebugPage.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\MainPage.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\DebugPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\MainPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\TempRun.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\TempRun.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\TempRun.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\TempRun.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\TempRun.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\BlankPage1.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\BlankPage1.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\BlankPage1.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\BlankPage1.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\BlankPage1.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\AttendanceReady.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\AttendanceReady.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\AttendanceReady.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\AttendanceReady.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\AttendanceReady.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\FingerprintCollectDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FingerprintCollectDialog.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FingerprintCollectDialog.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FingerprintCollectDialog.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\FingerprintCollectDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\InfoDialog.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\InfoDialog.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\InfoDialog.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\InfoDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\InfoDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\CommunicateCoreIoT.exe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\bin\ARM\Debug\CommunicateCoreIoT.pdb
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PAM\PAM\obj\ARM\Debug\PAM.csprojResolveAssemblyReference.cache
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\App.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\AttendanceReady.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\SyncProgress.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Config.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\FingerprintCollectDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\InfoDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\DebugPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\MainPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\TempRun.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.xr.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.exe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.pdb
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\resources.pri
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\AppxManifest.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Core\PAM.exe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.build.appxrecipe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Core.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Numerics.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Windows.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.AppContext.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Globalization.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\ClrCompression.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.g.i.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.xaml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.xbf
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\PAM.exe
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\PAM.pdb
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\priconfig.xml
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\layout.resfiles
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\resources.resfiles
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\pri.resfiles
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\qualifiers.txt
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\lisan\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\PAM.csprojResolveAssemblyReference.cache
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\App.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\AttendanceReady.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\SyncProgress.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Config.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\FingerprintCollectDialog.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\InfoDialog.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\DebugPage.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\MainPage.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\TempRun.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.xr.xml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.exe
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.pdb
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\resources.pri
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\AppxManifest.xml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Core\AppxManifest.xml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Core\PAM.exe
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\PAM.build.appxrecipe
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Microsoft.CSharp.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Core.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Numerics.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Web.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Windows.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.Linq.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.Serialization.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Microsoft.VisualBasic.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.AppContext.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.Concurrent.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.Immutable.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.NonGeneric.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Collections.Specialized.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Data.Common.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Debug.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Tools.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Dynamic.Runtime.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Globalization.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Globalization.Calendars.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Globalization.Extensions.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.Compression.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\ClrCompression.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.FileSystem.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.Expressions.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.Parallel.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Linq.Queryable.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Http.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Http.Rtc.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.NetworkInformation.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Primitives.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Requests.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.Sockets.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Numerics.Vectors.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ObjectModel.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.Networking.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.ServiceModel.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Private.Uri.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Context.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Emit.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Extensions.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Metadata.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.Primitives.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Resources.ResourceManager.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Extensions.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Handles.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.InteropServices.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Numerics.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Security.Claims.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Security.Principal.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Http.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.ServiceModel.Security.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.Encoding.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Text.RegularExpressions.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Overlapped.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Tasks.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Threading.Timer.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.XDocument.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.XmlDocument.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\PAM.csprojResolveAssemblyReference.cache
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.g.i.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\XamlTypeInfo.g.cs
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.xaml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\App.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\AttendanceReady.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\SyncProgress.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\Config.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FingerprintCollectDialog.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\InfoDialog.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\DebugPage.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MainPage.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\TempRun.xbf
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\XamlSaveStateFile.xml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\PAM.exe
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\PAM.pdb
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\ResourceHandlingTask.state
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\priconfig.xml
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\priconfig.xml.intermediate
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\layout.resfiles
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\layout.resfiles.intermediate
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\resources.resfiles
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\resources.resfiles.intermediate
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\pri.resfiles
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\pri.resfiles.intermediate
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\qualifiers.txt
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\qualifiers.txt.intermediate
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Liy Personal Last\工作\Projects\Work Projects\QDRDTFS\平行管理系统\源代码\PHR\PAM\obj\ARM\Debug\ProjectArchitectures.txt
