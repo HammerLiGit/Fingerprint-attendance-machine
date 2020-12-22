@@ -10,3 +10,4 @@ StorageFolder 对应的存储目录（通过此对象获得的目录均在此路
 	
 	
 Modify by lisanhuo
+Modify on vs2019 by hammerliGit
